@@ -48,6 +48,14 @@ h2{
     position: relative;
     width: calc(100% - 50px);
 }
+#header #evmaster{
+	width: 250px;
+	height: 220px;
+	background: url(evmaster.png);
+	background-size: 100% 100%;
+	position: relative;
+	left: -68px;
+}
 #header #nav{
     position: absolute;
     right: 10px;
